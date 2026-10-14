@@ -1,0 +1,15 @@
+{
+  "dataset": "PlantVillage",
+  "num_classes": 38,
+  "num_images": 54306,
+  "train_images": 43444,
+  "validation_images": 5431,
+  "test_images": 5431,
+  "test_loss": 0.10832071304321289,
+  "test_accuracy": 0.9642791152000427,
+  "image_size": [
+    224,
+    224
+  ],
+  "model": "MobileNetV2 transfer learning"
+}
